@@ -1,0 +1,6 @@
+.img-responsive {
+  max-width: 300px;
+  min-width: 300px;
+  max-height:250px;
+  min-height: 250px;
+}
