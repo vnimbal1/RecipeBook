@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
+Welcome to Recipe Book.
+
+Designed and created a recipe book which contains different recipes.
+
+Functionality to add the ingredients of recipe in shopping cart.
+
+Also facilitated storing and fetching of recipes in Firebase databse.
+
+Applied concepts of angular2 like Components, Services, Dependency Injection, Observables, Directives, Routing, Lazy Loading.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
